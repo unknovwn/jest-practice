@@ -1,5 +1,5 @@
 
 language: node_js
 node_js:
-  - "v12.0.0"
+  - '12'
 after_success: npm run coverage
